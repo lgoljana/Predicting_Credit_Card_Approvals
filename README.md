@@ -1,2 +1,2 @@
-# test
-first test repository
+# Predicting Credit card approvals using machine learning algorithms
+This project develops an automated credit card approval predictor using machine learning techniques, similar to systems employed by banks. It utilizes Python, scikit-learn, and pandas to build and evaluate machine learning models on the Credit Card Approval dataset from the UCI Machine Learning Repository. The models predict the likelihood of credit card application approval based on factors like loan balances, income levels, and credit inquiries. Through this project, you'll gain experience in data preprocessing, feature engineering, model selection, and performance evaluation for credit risk assessment tasks.
